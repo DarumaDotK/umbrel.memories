@@ -8,10 +8,12 @@ I installed Ubuntu 22.04 Desktop (I later learned that I can use Ubuntu 22.04 li
 
 ฉันติดตั้ง Ubuntu 22.04 Desktop (ฉันมารู้ภายหลังว่า ฉันสามารถใช้ Ubuntu 22.04 live server ได้เช่นกัน) ลงบน Intel NUC ของฉัน. หลังจากติดตั้ง Ubuntu และอัพเดท เสร็จสิ้น. ฉันเปิด terminal และรันคำสั่ง `curl -L https://umbrel.sh | bash` ทันที เพื่อติดตั้ง Umbrel Node. และทุกสิ่งผ่านไปด้วยดี
 
-![pic1]
+![pic1](/src/Screenshot%20from%202022-11-26%2002-07-52.png)
 
 และฉันสามารถเข้าใช้งานผ่านเบราเซอร์จาก PC จากเครื่องอื่นๆ บนเน็ตเวริก์เดียวกันกับ Intel NUC ของฉัน
 
 And I can access through browser from PC from other machines. on the same network as my Intel NUC
 
-![pic2]
+![pic2](/src/Screenshot%20from%202022-11-26%2002-11-06.png)
+
+![pic3](/src/Screenshot%20from%202022-11-26%2011-04-56.png)
