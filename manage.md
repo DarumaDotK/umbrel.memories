@@ -1,4 +1,4 @@
-# Lightning
+# Basic Lightning Node
 
 ## การเปิดช่องกับ
 
